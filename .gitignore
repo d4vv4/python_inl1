@@ -13,6 +13,7 @@ develop-eggs/
 dist/
 eggs/
 lib/
+Scripts/
 lib64/
 parts/
 sdist/
